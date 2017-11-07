@@ -9,7 +9,7 @@ bachelor’s degree in mathematics at the University of Georgia in 2015.
 For anyone who is interested, a copy of my [CV]({{ "/assets/files/cv_temp.pdf" | absolute_url }}) can be found here.
 
 ### Research Interests
-My research interests lay primarily in random matrix theory, signal processing, and high diminsional statistics. 
+My research interests lay primarily in random matrix theory and signal processing. 
 In the non-asymptotic case, I'm interested in random matrix ensembles as seen in the compressed sensing literature as 
 well as non-linear random measurement operators which appear in the phase retrieval setting.
 I am also interested in the asymptotic case, where one uses tools from free probability and
