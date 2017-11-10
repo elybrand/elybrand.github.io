@@ -19,6 +19,6 @@ Lately, the signal processing group at UCSD has been going over recent advanceme
 from the perspective of applied harmonic analysis. I've written a [blog post] about one of the papers
 we read last spring if you're looking for a nice introduction.
 
-As an undergraduate, I worked with [Jason Cantarella](http://www.jasoncantarella.com/wordpress/)
+As an undergraduate, I worked with [Jason Cantarella](https://www.jasoncantarella.com/wordpress/)
 on computational knot theory. I plan on writing a blog post about this when I have time, so stay
 tuned!
