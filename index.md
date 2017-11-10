@@ -16,7 +16,7 @@ I am also interested in the asymptotic case, where one uses tools from free prob
 operator algebra to study the empirical spectral distributions of random linear operators.
 
 Lately, the signal processing group at UCSD has been going over recent advancements in deep learning
-from the perspective of applied harmonic analysis. I've written a [blog post] about one of the papers
+from the perspective of applied harmonic analysis. I've written a [blog post]({{ "/sparse_net/" | absolute_url }}) about one of the papers
 we read last spring if you're looking for a nice introduction.
 
 As an undergraduate, I worked with [Jason Cantarella](https://www.jasoncantarella.com/wordpress/)
