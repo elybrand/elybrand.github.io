@@ -30,7 +30,8 @@ in terms of the complexity of the function class you're trying to approximate?
 What makes their results impactful is that the lower bound on the complexity of the
 desired neural network is *independent* of the learning algorithm employed. The main motif of the paper
 is that neural networks can operate as representation systems. In the context of harmonic analysis, representation systems 
-act as bases of \\(L^2(\Omega)\\). Common representation systems include trigonometric polynomials 
+act as spanning sets of \\(L^2(\Omega)\\).
+Common representation systems include trigonometric polynomials 
 in the case of Fourier analysis and, more generally, wavelets. Representation systems
 are ubiquitous in part because of their practical importance in compressing signals. Instead
 of storing pointwise samples of a function, you could store, say, a thousand of its Fourier coefficients and
@@ -64,7 +65,7 @@ must necessarily have at least \\( O(\varepsilon^{-\gamma^*(\mathcal{C})}) \\) n
 
 The remainder of the paper is dedicated to answering the following question: for what signal classes is the above
 lower bound sharp? The answer to this question comes in two pieces. The first comes from characterizing what kinds of
-representation systems are optimal for approximating a signal class \\(\mathcal{C}\\). Then second piece then comes from
+representation systems are optimal for approximating a signal class \\(\mathcal{C}\\). The second piece then comes from
 realizing that you can go from an optimal \\(M\\)-term approximation in a representation system to a neural network
 with \\(O(M)\\) edges by simply approximating each function in the \\(M\\)-term approximation. Details are in the proof
 of Theorem 3.4.
@@ -75,11 +76,11 @@ Affine systems are basically wavelet frames, or collections of functions which a
 and translations of, to use a term that a few of my colleagues cringe at, a "mother" function. You might expect
 why such systems show up. The main idea appeared in Cloninger's and coauthors' paper cited at the beginning of this post,
 where you first construct the mother function out of some affine combination of your rectifier functions and the layers
-downstream from that take affine shifts and scale them. The Cloninger paper builds a trapezoidal bump function out of
+downstream from that scale them. The Cloninger paper builds a trapezoidal bump function out of
 ReLUs. I will remark that noticeably absent from the collection of affine systems are Gabor frames, but this is beside the point. 
 
 The theoretical portion of the manuscript ends with the particular affine system of shearlets, which, in the sense of Definition 2.5, are known
-to optimally represent cartoon-like functions, see [this manuscript](https://arxiv.org/abs/1702.03559). Cartoon-like functions were introduced by David Donoho
+to optimally represent cartoon-like functions; see [this manuscript](https://arxiv.org/abs/1702.03559). Cartoon-like functions were introduced by David Donoho
 in [his paper](https://statweb.stanford.edu/~donoho/Reports/1998/SCA.pdf) on sparse components of images. 
 Intuitively, they are piecewise smooth functions on the unit square \\([0,1]^2\\) where the boundaries 
 between the piecewise regions are smooth. Theorem 5.6 proves that the approximation error with \\(M\\)-edge neural
@@ -89,13 +90,13 @@ networks obeys the same decay rate as those enjoyed by shearlet approximations.
 
 I began this blog post by mentioning that the main motif of the "Optimal Approximation" manuscript 
 is that neural networks can behave like representation systems, but it remains to be seen if they actually
-do in practice. There is a numerical experiments section at the end of the paper which considers 
+learn representations that mathematicians have found to be optimal for certain signal classes. There is a numerical experiments section at the end of the paper which considers 
 classifying regions in the unit square in \\(\mathbb{R}^2\\) with linear and quadratic decision boundaries.
-The authors specify the network topology which is inspired by Cloninger's network. Its main feature is that it's bunch of sub-networks
+The authors specify the network topology which is inspired by Cloninger's network. Its main feature is that it is a bunch of sub-networks
 running in parallel. Each sub-network can be thought of as a function in a representation system which the aggregate
 network will learn. The network is trained with stochastic gradient descent with the usual backpropagation and \\(\ell^2\\) loss. 
 All weights except those in the second layer are trainable. The reason for fixing the weights in the second layer is to encourage the
-first two layers to learn something like a bump function. 
+first two layers to learn something like a bump function. See the paragraph below Figure 3 for a more complete explanation.
 
 Fast forward to the figures and your eyes will behold the graphs of subnetworks which appear to have learned shearlets! If you're like me,
 you start to carefully read through the experiments section again: how many edges were in the aggregate networks which learned
@@ -168,6 +169,6 @@ breakthroughs in image classification with deep learning in my opinion.
 
 I think the more interesting point of this manuscript is that neural networks do just as well as representation systems, if not better.
 The better question to explore is what types of functions are learned by neural networks when they're trained to approximate
-a signal class \\(\mathcal{C}\\). I'm not sure whether we're equipped mathematically to answer such questions. Nevertheless, I think
+a signal class \\(\mathcal{C}\\). I'm not sure whether we're equipped mathematically to answer such questions yet. Nevertheless, I think
 Bölcskei, Grohs, Kutyniok, and Petersen have laid excellent ground work for mathematicians to build off of in answering questions about
 deep learning.
