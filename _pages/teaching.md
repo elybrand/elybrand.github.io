@@ -5,8 +5,7 @@ author_profile: true
 permalink: /teaching/
 ---
 
-Here’s a list of courses I have taught in the past in addition to courses I am currently teaching.
-You can see my past teaching evaluations by clicking on the course titles if you’re interested.
+Here’s a list of courses I currently serve or have served as a teaching assistant for. You can see my past teaching evaluations by clicking on the course titles if you’re interested.
 
 ### 2018
 
