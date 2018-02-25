@@ -6,7 +6,7 @@ author_profile: true
 I am a third year mathematics Ph.D. student at the University
 of California, San Diego. [Rayan Saab](http://www.math.ucsd.edu/~rsaab/) is my adviser.
 I received my bachelor’s degree in mathematics at the University of Georgia in 2015.
-For anyone who is interested, a copy of my [CV]({{ "/assets/files/cv_temp.pdf" | absolute_url }})
+For anyone who is interested, a copy of my [CV]({{ "/assets/files/cv.pdf" | absolute_url }})
 or my [resume]({{ "/assets/files/resume.pdf" | absolute_url }}) can be found here.
 
 ### Research Interests
