@@ -88,9 +88,9 @@ and doesn't hold up for \\(r > 2\\). It appears to be the case that the coeffici
 important applications in quadrature rules or estimating moments/cumulants. 
 
 I think engineers view this in terms of high-pass and low-pass filters. Namely, if the difference between \\(y\_{i-1}\\) 
-and \\(q_{i-1}\\) is significant due to quantization error, the rate of change of \\(\sum\_{j=1}^{r+1} y\_{i-j+1} - \sum\_{j=1}^{r} q\_{i-j}\\) isn't likely
-to be as large as that of \\(y\_{i-1} - q\_{i-1} = (\Delta^r u)\_{i-1}\\). Appealing to mathematical intuition, this is simply because integration
-is a global operator whereas differentiation is a local operator and therefore victim to the tiniest of perturbations. As such, \\(q\\)
+and \\(q_{i-1}\\) is significant due to quantization error, the rate of change of \\(\sum\_{j=1}^{r} (-1)^{j-1} {r\choose j} u\_{i-j}\\) isn't likely
+to be as large as that of the fluctuation in \\(u\\). Appealing to mathematical intuition, this is simply because integration
+"smoothes out" small perturbations, and \\(\sum\_{j=1}^{r} (-1)^{j-1} {r\choose j} u\_{i-j}\\) is acting as a quadrature rule for integrating \\(u\\). As such, \\(q\\)
 is going to be composed of lower frequencies compared to the quantization error encoded in \\(u\\). Pushing error into higher frequencies is, after all,
 the name of the game in noise shaping.
 
