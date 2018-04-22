@@ -4,6 +4,10 @@ title: Analog to Digital Conversion & \\(\Sigma\Delta\\) Quantization
 author_profile: true
 ---
 
+*Update: an earlier version of this post incorrectly characterized the contribution from Daubechies and DeVore.
+The family of quantizing functions \\(\rho\_r\\) that they use is not the greedy scheme detailed below but is
+slightly more complicated. A special thanks goes out to Rayan Saab for a conversation we had about this detail.*
+
 A necessary step in the signal processing pipeline involves taking analog signals, or, mathematically speaking,
 real valued functions defined on \\(\mathbb{R}\\) and representing them digitally as bit strings. We take this for
 granted when we listen to a song on our phone or watch a movie on our computer. It's the kind of thing that some mathematicians
@@ -14,7 +18,7 @@ encoding it.
 To set things up, suppose we have a function \\(f: [-T, T] \to \mathbb{R}\\) which represents 
 some natural signal we'd like to encode. Since humans can only see wavelengths between
 \\(390\\) and \\(700\\) nm and can only hear frequencies between 20 and 20,000 Hz it's safe
-to assume \\(f\\) is *bandlimited*, or that it's Fourier transform is compactly supported
+to assume \\(f\\) is *bandlimited*, or that its Fourier transform is compactly supported
 in some set \\([-\Omega, \Omega]\\). There is a classic result known as the [Shannon-Nyquist](https://en.wikipedia.org/wiki/Nyquist%E2%80%93Shannon_sampling_theorem) 
 sampling theorem which states that \\(f\\) can be encoded without *distortion*, or error, given samples
 \\( \\{f(x\_i)\\} \\) sampled at a rate of \\( (2\Omega)^{-1} \\). In other words, if we were to think in terms of
@@ -60,7 +64,7 @@ These other quantization schemes fall under the category of [noise shaping](http
 I will focus particularly on \\(\Sigma\Delta\\) quantization. Whereas MSQ quantizes \\(y\_i\\) simply based on the value
 that \\(y\_i\\) takes, \\(\Sigma\Delta\\) quantizers feature a state variable \\(u\\) which encodes the quantization
 error of the previous \\(r\\) components of \\(y\\) and uses this state variable to quantize the values of \\(y\\).
-Given a fixed positive integer \\(r\\), an alphabet \\(\mathcal{A}\\), and a function \\(\rho\_r: \mathbb{R} \to \mathbb{R}\\),
+Given a fixed positive integer \\(r\\), an alphabet \\(\mathcal{A}\\), and a function \\(\rho\_r: \mathbb{R}^{2r} \to \mathbb{R}\\),
 \\(y\_i\\) is quantized as
 \\[ \begin{align}
 q\_i &= Q\_{\mathcal{A}}(\rho\_r(u\_{i-1},..., u\_{i-r}, y\_{i},..., y\_{i-r+1})) \newline
@@ -69,9 +73,15 @@ q\_i &= Q\_{\mathcal{A}}(\rho\_r(u\_{i-1},..., u\_{i-r}, y\_{i},..., y\_{i-r+1})
 \\]
 where \\( (\Delta u)\_i = u\_i - u\_{i-1}\\) is the difference operator and \\(Q\_{\mathcal{A}}\\) rounds to the nearest
 point in \\(\mathcal{A}\\). For logistical reasons, one needs to choose \\(\rho\_r\\) carefully to ensure that 
-\\( \\|u\\|\_{\infty} \leq C \\). [Daubechies and DeVore](https://services.math.duke.edu/~ingrid/publications/annals-v158-n2-p09.pdf)
-proved this holds for a particular family of \\(\rho\_r\\), namely
+\\( \\|u\\|\_{\infty} \leq C \\). Quantization schemes which admit this property are called *stable*. [Daubechies and DeVore](https://services.math.duke.edu/~ingrid/publications/annals-v158-n2-p09.pdf)
+were the first to prove that a particular family of \\(\rho\_r\\) is stable in the context of bandlimited functions, even in the case where \\(\mathcal{A}\\) is fixed.
+Apart from these, there are a handful of other \\(\rho\_r\\) that are known to be stable in the \\(\Sigma\Delta\\) literature depending on whether the alphabet \\(\mathcal{A}\\) is fixed or allowed to grow. 
+For the sake of concreteness, we'll focus on the particular family
 \\[ \rho\_r(u\_{i-1},..., u\_{i-r}, y\_{i},..., y\_{i-r+1}) = y\_i + \sum\_{j=1}^{r} (-1)^{j-1} {r\choose j} u\_{i-j}. \\]
+This scheme ensures that \\(\\|u\\|\_{\infty} \leq \frac{\delta}{2}\\) if one uses the alphabet \\(\\{\pm(2j + 1)\delta/2, \,\, j\in\\{0,..., L-1\\}\\}\\)
+and \\(L\\) is chosen so that \\(L \geq 2\lceil\frac{\\|y\\|_{\infty}}{\delta}\rceil + 2^r + 1\\). That is, this scheme is stable if the alphabet
+is allowed to grow exponentially with respect to \\(r\\).
+
 This is all rather opaque, but for the simple case of \\(r = 1\\), solving the recurrence relation for the \\(u\\) terms
 yields
 \\[ \begin{align}
@@ -81,7 +91,7 @@ and for \\( r = 2 \\) we have
 \\[ \begin{align}
 q\_i = Q\_{\mathcal{A}}\left(\sum\_{j=1}^{r+1} j y\_{i-j+1} - \sum\_{j=1}^{r} (j+1) q\_{i-j} \right)
 \end{align}\\]
-As a mathematician, I am tempted to interpret this in terms of quantizing the difference of \\(0^{th}\\)
+As someone who dabbles in statistics, I am tempted to interpret this in terms of quantizing the difference of \\(0^{th}\\)
 moments for \\(r = 1\\) and the difference in means for \\(r = 2\\). Unfortunately this explanation is disingenuous
 and doesn't hold up for \\(r > 2\\). It appears to be the case that the coefficients in the summands are 
 [simplicial numbers](http://oeis.org/wiki/Simplicial_polytopic_numbers) which, to the best of my knowledge, have no
@@ -95,7 +105,7 @@ is going to be composed of lower frequencies compared to the quantization error 
 the name of the game in noise shaping.
 
 Long story short, noise shaping techniques like \\(\Sigma\Delta\\) enjoy favorable distortion decay
-as you oversample. Namely, if you use the above \\(r^{th}\\) order \\(\Sigma\Delta\\) scheme with the an appropriately chosen alphabet
+as you oversample. Namely, if you use a \\(r^{th}\\) order \\(\Sigma\Delta\\) scheme with an appropriately chosen alphabet
 (see Section 2 in [this paper](https://arxiv.org/pdf/1306.4549.pdf) for a more thorough treatment; importantly, the one bit alphabet and uniform grids
 as mentioned above are included as examples), then the reconstruction
 error (in Euclidean norm) for recovering \\(x\in \mathbb{R}^N\\) from \\(q\\) decays like \\(O(m^{-r})\\). 
