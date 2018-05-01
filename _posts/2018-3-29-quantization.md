@@ -22,7 +22,7 @@ to assume \\(f\\) is *bandlimited*, or that its Fourier transform is compactly s
 in some set \\([-\Omega, \Omega]\\). There is a classic result known as the [Shannon-Nyquist](https://en.wikipedia.org/wiki/Nyquist%E2%80%93Shannon_sampling_theorem) 
 sampling theorem which states that \\(f\\) can be encoded without *distortion*, or error, given samples
 \\( \\{f(x\_i)\\} \\) sampled at a rate of \\( (2\Omega)^{-1} \\). In other words, if we were to think in terms of
-seconds as our unit of time, we'd need \\((2\Omega)^{-1}\\) samples per second for perfect reconstruction. Specifically, the theorem
+seconds as our unit of time, we'd need \\(2\Omega\\) samples per second for perfect reconstruction. Specifically, the theorem
 states that
 \\[f(t) = \sum_{n\in\mathbb{Z}}f\left(\frac{n\pi}{\Omega}\right) \text{sinc}(\Omega t - n\pi),\\]
 where \\(\text{sinc}(x) = \frac{\sin(x)}{x}\\). It can be shown that this lower bound on the sampling
