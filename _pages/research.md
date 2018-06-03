@@ -11,13 +11,18 @@ permalink: /research/
 
 2. E. Lybrand and [R. Saab](http://www.math.ucsd.edu/~rsaab/). “Quantization for Low-Rank Matrix Recovery." Accepted for publication in Information and Inference, 2018.  [arXiv](https://arxiv.org/abs/1709.09803)
 
-## Talks
+## Talks & Conference Presentations
 
-1. Graduate Student Seminar, UCSD. "Compressed Sensing and Random Matrices." January 2018.
+1. Poster Presentation, UCSD Mathematics Colloquium, May 2018.
 
-2. Graduate Student Seminar, UCSD. "Deterministic Models for Topoisomerase II." February 2017
+2. Poster Presentation, Seventh International Conference on Computational Harmonic Analysis (ICCHA7),
+May 2018.
 
-3. Undergraduate Student Seminar, UGA. "An Introduction to the Calculus of Variations." April 2014.
+3. Graduate Student Seminar, UCSD. "Compressed Sensing and Random Matrices." January 2018.
 
-4. Undergraduate Student Seminar, UGA. "Understanding Topology via Differential Forms." January 2014.
+4. Graduate Student Seminar, UCSD. "Deterministic Models for Topoisomerase II." February 2017
+
+5. Undergraduate Student Seminar, UGA. "An Introduction to the Calculus of Variations." April 2014.
+
+6. Undergraduate Student Seminar, UGA. "Understanding Topology via Differential Forms." January 2014.
 
