@@ -9,6 +9,7 @@ Here’s a list of courses I currently serve or have served as a teaching assist
 
 ### 2018
 
+[MATH 500]({{ "/MATH500/" | absolute_url }})  - Teaching Assistant Training (Fall)  
 [MATH 31CH]({{ "/assets/files/Spring_2018_31CH_students.pdf" | absolute_url }}) - Honors Vector Calculus (Spring)  
 [MATH 18]({{ "/assets/files/Winter_2018_18_students.pdf" | absolute_url }}) - Linear Algebra (Winter)  
 [MATH 31BH]({{ "/assets/files/Winter_2018_31BH_students.pdf" | absolute_url }}) - Honors Multivariable Calculus (Winter)

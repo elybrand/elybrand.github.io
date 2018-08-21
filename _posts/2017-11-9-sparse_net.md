@@ -107,7 +107,7 @@ points in \\(\mathbb{R}^2\\)?
 I don't have definitive answers to these questions, except maybe the last one. To the best of my knowledge, this code is not publicly available. Even if it were,
 I have been told that the experiments were run in MATLAB. This explains the extra two inputs in the input layer. I suspect that these act as the bias terms. 
 In any case, I have written code which performs their numerical experiments in Keras. You can download the jupyter notebook 
-[here]({{"/assets/notebooks/sparse_net_exp.ipynb"}}). I encourage you to play around with it yourself: change the decision boundary to something more complicated, fiddle with the number of subnetworks,
+[here](https://github.com/elybrand/sparse_net). I encourage you to play around with it yourself: change the decision boundary to something more complicated, fiddle with the number of subnetworks,
 adjust the number of samples used in the training set.
 
 I restricted myself to looking at the quadratic decision boundary since that's what the manuscript considered. I generated
