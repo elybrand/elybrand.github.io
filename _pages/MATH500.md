@@ -24,9 +24,9 @@ Fall 2018: &nbsp;&nbsp;&nbsp;Thursdays, 1pm-1:50pm
 
 | Week          | Theme                   | Background              | Homework           |
 | ------------- | ----------------------- | ----------------------- | ------------------ |
-| 0             | Nuts and Bolts		  | [List of Responsibilities]("http://www.math.ucsd.edu/~seniorta/Policies/TADuties.pdf")<br>[Before the Quarter Starts]("http://www.math.ucsd.edu/~seniorta/Gettingstarted/preparation.html")<br> [Your First Section]("http://www.math.ucsd.edu/~seniorta/Gettingstarted/firstsection.html")| Write a teaching statement. |
+| 0             | Nuts and Bolts		  | [List of Responsibilities](http://www.math.ucsd.edu/~seniorta/Policies/TADuties.pdf)<br>[Before the Quarter Starts](http://www.math.ucsd.edu/~seniorta/Gettingstarted/preparation.html)<br> [Your First Section](http://www.math.ucsd.edu/~seniorta/Gettingstarted/firstsection.html)| Write a teaching statement. |
 | 1             | Nuts and Bolts		  | 					    |
-| 2             | Nuts and Bolts		  | [Proctoring]("http://www.math.ucsd.edu/~seniorta/Gettingstarted/exams-proctoring.html")<br>[Grading Exams]("http://www.math.ucsd.edu/~seniorta/Gettingstarted/exams-grading.html")<br> [Returning Exams]("http://www.math.ucsd.edu/~seniorta/Gettingstarted/exams-returning.html") | |
+| 2             | Nuts and Bolts		  | [Proctoring](http://www.math.ucsd.edu/~seniorta/Gettingstarted/exams-proctoring.html)<br>[Grading Exams](http://www.math.ucsd.edu/~seniorta/Gettingstarted/exams-grading.html)<br> [Returning Exams](http://www.math.ucsd.edu/~seniorta/Gettingstarted/exams-returning.html) | |
 | 3             | Academic Integrity	  | Guest Lecture?			|
 | 4             | Teaching Methods		  | 						| Begin observing other TAs |
 | 5             | 						  | Guest Lecture		    |
@@ -34,4 +34,4 @@ Fall 2018: &nbsp;&nbsp;&nbsp;Thursdays, 1pm-1:50pm
 | 7             | Observations			  | 						| Rewrite teaching statement |
 | 8             | NO CLASS				  | Happy Thanksgiving!	    |
 | 9             | Roleplay				  | 						|
-| 10            | Final Exams			  | [Leaving at the End of Quarter]("http://www.math.ucsd.edu/~seniorta/Policies/leaving.html")<br>[Holding Onto Exams]("http://www.math.ucsd.edu/~seniorta/Policies/exams.html")| |
+| 10            | Final Exams			  | [Leaving at the End of Quarter](http://www.math.ucsd.edu/~seniorta/Policies/leaving.html)<br>[Holding Onto Exams](http://www.math.ucsd.edu/~seniorta/Policies/exams.html)| |
