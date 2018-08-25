@@ -22,16 +22,16 @@ Fall 2018: &nbsp;&nbsp;&nbsp;Thursdays, 1pm-1:50pm
 
 ## Weekly Schedule
 
-| Week          | Theme                   | Background              | Homework           |
+| Date          | Theme                   | Background              | Homework           |
 | ------------- | ----------------------- | ----------------------- | ------------------ |
-| 0             | Nuts and Bolts		  | [List of Responsibilities](http://www.math.ucsd.edu/~seniorta/Policies/TADuties.pdf)<br>[Before the Quarter Starts](http://www.math.ucsd.edu/~seniorta/Gettingstarted/preparation.html)<br> [Your First Section](http://www.math.ucsd.edu/~seniorta/Gettingstarted/firstsection.html)| Write a teaching statement. |
-| 1             | Nuts and Bolts		  | 					    |
-| 2             | Nuts and Bolts		  | [Proctoring](http://www.math.ucsd.edu/~seniorta/Gettingstarted/exams-proctoring.html)<br>[Grading Exams](http://www.math.ucsd.edu/~seniorta/Gettingstarted/exams-grading.html)<br> [Returning Exams](http://www.math.ucsd.edu/~seniorta/Gettingstarted/exams-returning.html) | |
-| 3             | Academic Integrity	  | Guest Lecture?			|
-| 4             | Teaching Methods		  | 						| Begin observing other TAs |
-| 5             | 						  | Guest Lecture		    |
-| 6             | 						  | Guest Lecture		    |
-| 7             | Observations			  | 						| Rewrite teaching statement |
-| 8             | NO CLASS				  | Happy Thanksgiving!	    |
-| 9             | Roleplay				  | 						|
-| 10            | Final Exams			  | [Leaving at the End of Quarter](http://www.math.ucsd.edu/~seniorta/Policies/leaving.html)<br>[Holding Onto Exams](http://www.math.ucsd.edu/~seniorta/Policies/exams.html)| |
+| September 27             | Nuts and Bolts		  | [List of Responsibilities](http://www.math.ucsd.edu/~seniorta/Policies/TADuties.pdf)<br>[Before the Quarter Starts](http://www.math.ucsd.edu/~seniorta/Gettingstarted/preparation.html)<br> [Your First Section](http://www.math.ucsd.edu/~seniorta/Gettingstarted/firstsection.html)| Write a teaching statement. |
+| October 4             | Nuts and Bolts		  | 					    |
+| October 11             | Nuts and Bolts		  | [Proctoring](http://www.math.ucsd.edu/~seniorta/Gettingstarted/exams-proctoring.html)<br>[Grading Exams](http://www.math.ucsd.edu/~seniorta/Gettingstarted/exams-grading.html)<br> [Returning Exams](http://www.math.ucsd.edu/~seniorta/Gettingstarted/exams-returning.html) | |
+| October 18             | Academic Integrity	  | Guest Lecture?			|
+| October 25             | Teaching Methods		  | 						| Begin observing other TAs |
+| November 1             | 						  | Guest Lecture		    |
+| November 8             | 						  | Guest Lecture		    |
+| November 15             | Observations			  | 						| Rewrite teaching statement |
+| November 22             | NO CLASS				  | Happy Thanksgiving!	    |
+| November 29             | Roleplay				  | 						|
+| December 6            | Final Exams			  | [Leaving at the End of Quarter](http://www.math.ucsd.edu/~seniorta/Policies/leaving.html)<br>[Holding Onto Exams](http://www.math.ucsd.edu/~seniorta/Policies/exams.html)| |
