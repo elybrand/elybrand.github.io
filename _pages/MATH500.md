@@ -10,6 +10,7 @@ permalink: /MATH500/
 ## Course Overview
 
 MATH 500 is a training course for first time teaching assistants for Mathematics classes. Here you will find the course syllabus as well as any assignments that are due throughout the quarter.
+You may find the syllabus for the course [here]({{ "/assets/files/Math 500 Syllabus.pdf" | absolute_url }}).
 
 Fall 2018: &nbsp;&nbsp;&nbsp;Thursdays, 1pm-1:50pm  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;APM B402A  
@@ -29,11 +30,11 @@ Fall 2018: &nbsp;&nbsp;&nbsp;Thursdays, 1pm-1:50pm
 
 | Date                   | Theme                            | Background                | Homework           |
 | -----------------------| -------------------------------- | ------------------------- | ------------------ |
-| September 27           | Nuts and Bolts: Being a TA	    | -[List of Responsibilities](http://www.math.ucsd.edu/~seniorta/Policies/TADuties.pdf)<br>-[Before the Quarter Starts](http://www.math.ucsd.edu/~seniorta/Gettingstarted/preparation.html)<br> -[Your First Section](http://www.math.ucsd.edu/~seniorta/Gettingstarted/firstsection.html)| Write a teaching statement. Due October 4th. |
+| September 27           | Nuts and Bolts: Being a TA	    | -[List of Responsibilities](http://www.math.ucsd.edu/~seniorta/Policies/TADuties.pdf)<br>-[Before the Quarter Starts](http://www.math.ucsd.edu/~seniorta/Gettingstarted/preparation.html)<br> -[Your First Section](http://www.math.ucsd.edu/~seniorta/Gettingstarted/firstsection.html) <br> -[How to Use Gradescope](https://math.ucsd.edu/resources/instructor-resources/gradescope/index.html)<br> -[How to Use TritonEd](https://blink.ucsd.edu/faculty/instruction/tritoned/use/index.html)<br> -[Writing a Teaching Statement](https://www.ams.org/notices/201501/rnoti-p59.pdf)| Write a teaching statement. Due October 4th. |
 | October 4              | Pedagogy and Classroom Atmosphere| 					        |
 | October 11             | Nuts and Bolts: Midterms		    | -[Proctoring](http://www.math.ucsd.edu/~seniorta/Gettingstarted/exams-proctoring.html)<br>-[Grading Exams](http://www.math.ucsd.edu/~seniorta/Gettingstarted/exams-grading.html)<br> -[Returning Exams](http://www.math.ucsd.edu/~seniorta/Gettingstarted/exams-returning.html) | |
 | October 18             | Teaching Methods	  				| -Guest Lecture (Todd Kemp)|
-| October 25             | Teaching Methods, Overflow       | 						    | Begin observing other TAs. Finish by November 15th. |
+| October 25             | Teaching Methods, Overflow       | -Student Panel			| Begin observing other TAs. Finish by November 15th. |
 | November 1             | Academic Integrity	            | -Guest Lecture	(OAI) <br> -[What to do When You Suspect Cheating](https://academicintegrity.ucsd.edu/take-action/report-cheating/guidelines.html) <br> -[How to Report a Violation](https://academicintegrity.ucsd.edu/take-action/report-cheating/index.html)	<br>-[What Happens After Cheating Is Reported](https://academicintegrity.ucsd.edu/process/after-report.html#A-formal-Academic-Integrity-Rev)<br> -[UCSD Academic Integrity Stats](https://academicintegrity.ucsd.edu/about/reports.html)   |
 | November 8             | On Campus Resources for TAs		| -Guest Lectures (ELI, OPHD?) <br> -[Students of Concern](https://blink.ucsd.edu/instructors/advising/concern/index.html)<br> -[Helping Sexual Harassment Victims](http://sos.ucsd.edu/get-help/help-someone.html)|
 | November 15            | On Campus Resources for TAs		| -Guest Lecture	(OSD, CAPS) <br> -[Types of Student Accommodations](https://disabilities.ucsd.edu/students/typesaccommodations.html)		| Rewrite teaching statement. |
