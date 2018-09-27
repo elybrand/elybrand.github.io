@@ -12,6 +12,9 @@ permalink: /MATH500/
 MATH 500 is a training course for first time teaching assistants for Mathematics classes. Here you will find the course syllabus as well as any assignments that are due throughout the quarter.
 You may find the syllabus for the course [here]({{ "/assets/files/Math 500 Syllabus.pdf" | absolute_url }}).
 
+You may also find links to presentation slides of past meetings by clicking on the
+corresponding Theme cell for that meeting.
+
 Fall 2018: &nbsp;&nbsp;&nbsp;Thursdays, 1pm-1:50pm  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;APM B402A  
 **Instructor**: Jeff Rabin  
@@ -30,7 +33,7 @@ Fall 2018: &nbsp;&nbsp;&nbsp;Thursdays, 1pm-1:50pm
 
 | Date                   | Theme                            | Background                | Homework           |
 | -----------------------| -------------------------------- | ------------------------- | ------------------ |
-| September 27           | Nuts and Bolts: Being a TA	    | -[List of Responsibilities](http://www.math.ucsd.edu/~seniorta/Policies/TADuties.pdf)<br>-[Before the Quarter Starts](http://www.math.ucsd.edu/~seniorta/Gettingstarted/preparation.html)<br> -[Your First Section](http://www.math.ucsd.edu/~seniorta/Gettingstarted/firstsection.html) <br> -[How to Use Gradescope](https://math.ucsd.edu/resources/instructor-resources/gradescope/index.html)<br> -[How to Use TritonEd](https://blink.ucsd.edu/faculty/instruction/tritoned/use/index.html)<br> -[Writing a Teaching Statement](https://www.ams.org/notices/201501/rnoti-p59.pdf)| Read your list of responsibilities (see first link). Write a teaching statement. Due October 4th. |
+| September 27           | [Nuts and Bolts: Being a TA]({{ "/assets/files/TA_Training_1.pdf" | absolute_url }})	    | -[List of Responsibilities](http://www.math.ucsd.edu/~seniorta/Policies/TADuties.pdf)<br>-[Before the Quarter Starts](http://www.math.ucsd.edu/~seniorta/Gettingstarted/preparation.html)<br> -[Your First Section](http://www.math.ucsd.edu/~seniorta/Gettingstarted/firstsection.html) <br> -[How to Use Gradescope](https://math.ucsd.edu/resources/instructor-resources/gradescope/index.html)<br> -[How to Use TritonEd](https://blink.ucsd.edu/faculty/instruction/tritoned/use/index.html)<br> -[Writing a Teaching Statement](https://www.ams.org/notices/201501/rnoti-p59.pdf)| Read your list of responsibilities (see first link). Write a teaching statement. Due October 4th. |
 | October 4              | Pedagogy and Classroom Atmosphere| 					        |
 | October 11             | Nuts and Bolts: Midterms		    | -[Proctoring](http://www.math.ucsd.edu/~seniorta/Gettingstarted/exams-proctoring.html)<br>-[Grading Exams](http://www.math.ucsd.edu/~seniorta/Gettingstarted/exams-grading.html)<br> -[Returning Exams](http://www.math.ucsd.edu/~seniorta/Gettingstarted/exams-returning.html) | |
 | October 18             | Teaching Methods	  				| -Guest Lecture (Todd Kemp)|
