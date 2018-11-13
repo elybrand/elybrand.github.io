@@ -13,18 +13,20 @@ permalink: /research/
 
 ## Talks & Conference Presentations
 
-1. IPAM GRIPS - Sendai, Japan, "Compressed Sensing and Blind Deconvolution." June 2018.
+1. [Quantization and Low Rank Matrix Recovery](https://www.birs.ca/events/2018/5-day-workshops/18w5162/videos/watch/201810301105-Lybrand.html), BIRS (Banff) Workshop on Information Theory and Signal Processing. October 2018.
 
-2. Poster Presentation, UCSD Mathematics Colloquium, May 2018.
+2. IPAM GRIPS - Sendai, Japan, "Compressed Sensing and Blind Deconvolution." June 2018.
 
-3. Poster Presentation, Seventh International Conference on Computational Harmonic Analysis (ICCHA7),
+3. Poster Presentation, UCSD Mathematics Colloquium, May 2018.
+
+4. Poster Presentation, Seventh International Conference on Computational Harmonic Analysis (ICCHA7),
 May 2018.
 
-4. Graduate Student Seminar, UCSD. "Compressed Sensing and Random Matrices." January 2018.
+5. Graduate Student Seminar, UCSD. "Compressed Sensing and Random Matrices." January 2018.
 
-5. Graduate Student Seminar, UCSD. "Deterministic Models for Topoisomerase II." February 2017
+6. Graduate Student Seminar, UCSD. "Deterministic Models for Topoisomerase II." February 2017
 
-6. Undergraduate Student Seminar, UGA. "An Introduction to the Calculus of Variations." April 2014.
+7. Undergraduate Student Seminar, UGA. "An Introduction to the Calculus of Variations." April 2014.
 
-7. Undergraduate Student Seminar, UGA. "Understanding Topology via Differential Forms." January 2014.
+8. Undergraduate Student Seminar, UGA. "Understanding Topology via Differential Forms." January 2014.
 
