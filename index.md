@@ -6,7 +6,7 @@ author_profile: true
 I am a fourth year mathematics Ph.D. candidate at the University
 of California, San Diego. [Rayan Saab](http://www.math.ucsd.edu/~rsaab/) is my adviser.
 I received my bachelor’s degree in mathematics at the University of Georgia in 2015.
-For anyone who is interested, here is a copy of my [CV]({{ "/assets/files/CV.pdf" | absolute_url }}).
+For anyone who is interested, here is a copy of my [CV]({{ "/assets/files/CV.pdf" | absolute_url }}) and my [resume]({{ "/assets/files/resume1.pdf" | absolute_url }}).
 
 ### Research Interests
 My research interests lay primarily in digital signal processing, and quantization. 
