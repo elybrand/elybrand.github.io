@@ -7,7 +7,7 @@ permalink: /research/
 
 ## Preprints & Manuscripts in Preparation
 
-- [M. Iwen](https://users.math.msu.edu/users/markiwen/), E. Lybrand, A. Nelson, [R. Saab]((http://www.math.ucsd.edu/~rsaab/)). "New Algorithms and Improved Guarantees for One-Bit Compressed Sensing on Manifolds." Submitted to SampTA2019. [arXiv](https://arxiv.org/abs/1902.03726)
+- [M. Iwen](https://users.math.msu.edu/users/markiwen/), E. Lybrand, A. Nelson, [R. Saab]((http://www.math.ucsd.edu/~rsaab/)). "New Algorithms and Improved Guarantees for One-Bit Compressed Sensing on Manifolds." Accepted to SampTA2019. [arXiv](https://arxiv.org/abs/1902.03726)
 
 - H. Huang and [T. Kemp](http://www.math.ucsd.edu/~tkemp/) and Y. Ling and X. Luo and E. Lybrand and R. Smith and J. Wang. "Random Matrices with Independent Diagonals." preprint, 2018.
 
