@@ -17,7 +17,9 @@ permalink: /research/
 
 ## Talks & Conference Presentations
 
-- [Quantization and Low Rank Matrix Recovery](https://www.birs.ca/events/2018/5-day-workshops/18w5162/videos/watch/201810301105-Lybrand.html), BIRS (Banff) Workshop on Information Theory and Signal Processing. October 2018.
+- [One-Bit Compressed Sensing on Manifolds]({{ "/assets/files/One_Bit_Man_TRIPODS_2019.pdf" | absolute_url }}), TRIPODS Summer Conference. May 2019.
+
+- [Quantization and Low Rank Matrix Recovery](https://www.birs.ca/events/2018/5-day-workshops/18w5162/videos/watch/201810301105-Lybrand.html), BIRS (Banff) Workshop on Information Theory and Signal Processing. October 2018. [Slides]({{ "/assets/files/BIRS_2018_lowrank.pdf" | absolute_url }})
 
 - IPAM GRIPS - Sendai, Japan, "Compressed Sensing and Blind Deconvolution." June 2018.
 
