@@ -9,8 +9,8 @@ tags: math
 I remember as a first year student at UGA I was enrolled in a multivariable mathematics
 class. At the time that class was impossibly difficult for me, but looking back I'm 
 grateful for enrolling in it. A lot of key ideas that I would see later in my academic
-career had seeds that were planted during that first year. The professor of that course,
-[Ted Shifrin](https://www.math.uga.edu/directory/people/theodore-shifrin), who is a good friend and mentor of mine now, is famously known by his students for incorporating geometry to a mathematical discussion whenever he finds the chance to do so. An extreme example of this is demonstrated by an Abstract Algebra text he authored titled "Abstract Algebra: A Geometric Approach." 
+career had seeds that were planted during that first year. As a matter of posterity, the lectures of this course were recorded and made [publicly available on YouTube](https://www.youtube.com/channel/UCp9W-et2Zbx7u5_VMiXGtPQ) courtesy of Patty Wagner, yours truly, and a few of my then colleagues. The professor of that course,
+[Ted Shifrin](https://www.math.uga.edu/directory/people/theodore-shifrin), who is a good friend and mentor of mine now, is famously known by his students for incorporating geometry to a mathematical discussion whenever he finds the chance to do so. An extreme example of this is demonstrated by an Abstract Algebra text he authored titled "Abstract Algebra: A Geometric Approach."  
 
 I particularly remember working on some homework problems involving conic sections and coming across
 a problem which outlined the mathematics behind what are known as "[whispering galleries](https://www.mathematicalsynergistics.com/gallery/2d-whispering-gallery/)."

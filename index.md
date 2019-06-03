@@ -26,3 +26,5 @@ we read if you're looking for a nice introduction.
 
 As an undergraduate, I worked with [Jason Cantarella](https://www.jasoncantarella.com/wordpress/)
 on computational knot theory.
+
+With the help of Patty Wagner and a few of my then colleagues I helped record and uploaded lectures of the MATH 3500/3510 course at UGA. You may find those lectures at the following [YouTube page](https://www.youtube.com/channel/UCp9W-et2Zbx7u5_VMiXGtPQ).
