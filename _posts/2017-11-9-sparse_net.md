@@ -149,10 +149,10 @@ This is the proxy that the manuscript uses to measure the significance of the su
 
 | 15 Subnetworks | 30 Subnetworks | 45 Subnetworks |
 |:--------------:|:--------------:|:--------------:|
-|![ex15_47_47_2]({{"/assets/images/ex15_47_47_2.png"}}) np: 47, TF: 47| ![ex30_47_96_8]({{"/assets/images/ex30_47_96_8.png"}}) np: 47, TF: 96| ![ex45_82_47_1]({{"/assets/images/ex45_82_47_1.png"}}) np: 82, TF: 47 |
-|![ex15_47_47_8]({{"/assets/images/ex15_47_47_8.png"}}) np: 47, TF: 47| ![ex30_82_47_2]({{"/assets/images/ex30_82_47_2.png"}}) np: 82, TF: 47|![ex45_82_47_3]({{"/assets/images/ex45_82_47_3.png"}}) np: 82, TF: 47 | 
-|![ex15_82_47_2]({{"/assets/images/ex15_82_47_2.png"}}) np: 82, TF: 47| ![ex30_82_96_7]({{"/assets/images/ex30_82_96_7.png"}}) np: 82, TF: 96 | ![ex45_82_82_2]({{"/assets/images/ex45_82_82_2.png"}}) np: 82, TF: 82|
-|![ex15_82_47_3]({{"/assets/images/ex15_82_47_3.png"}}) np: 82, TF: 47| ![ex30_96_47_3]({{"/assets/images/ex30_96_47_3.png"}}) np: 96, TF: 47| ![ex45_82_96_7]({{"/assets/images/ex45_82_96_7.png"}}) np: 82, TF: 96 |
+|![ex15_47_47_2]({{"/assets/images/2017_sparse_net/ex15_47_47_2.png"}}) np: 47, TF: 47| ![ex30_47_96_8]({{"/assets/images/2017_sparse_net/ex30_47_96_8.png"}}) np: 47, TF: 96| ![ex45_82_47_1]({{"/assets/images/2017_sparse_net/ex45_82_47_1.png"}}) np: 82, TF: 47 |
+|![ex15_47_47_8]({{"/assets/images/2017_sparse_net/ex15_47_47_8.png"}}) np: 47, TF: 47| ![ex30_82_47_2]({{"/assets/images/2017_sparse_net/ex30_82_47_2.png"}}) np: 82, TF: 47|![ex45_82_47_3]({{"/assets/images/2017_sparse_net/ex45_82_47_3.png"}}) np: 82, TF: 47 | 
+|![ex15_82_47_2]({{"/assets/images/2017_sparse_net/ex15_82_47_2.png"}}) np: 82, TF: 47| ![ex30_82_96_7]({{"/assets/images/2017_sparse_net/ex30_82_96_7.png"}}) np: 82, TF: 96 | ![ex45_82_82_2]({{"/assets/images/2017_sparse_net/ex45_82_82_2.png"}}) np: 82, TF: 82|
+|![ex15_82_47_3]({{"/assets/images/2017_sparse_net/ex15_82_47_3.png"}}) np: 82, TF: 47| ![ex30_96_47_3]({{"/assets/images/2017_sparse_net/ex30_96_47_3.png"}}) np: 96, TF: 47| ![ex45_82_96_7]({{"/assets/images/2017_sparse_net/ex45_82_96_7.png"}}) np: 82, TF: 96 |
 
 
 I don't claim that every subnetwork output I marked as being notable is indeed a shearlet.

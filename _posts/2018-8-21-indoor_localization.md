@@ -151,9 +151,9 @@ hands as we walked along the paths.
 
 | Route | RSS Measurements |
 |:-------:|:-------:|
-|![S1path]({{"/assets/images/indoor_localization/Route_180723_S1.png"}})|![S1RSS]({{"/assets/images/indoor_localization/S1_jumps.png"}})|
-|![S2path]({{"/assets/images/indoor_localization/Route_180713_S2.png"}})|![S2RSS]({{"/assets/images/indoor_localization/raw_RSSI_S2.png"}})|
-|![S3path]({{"/assets/images/indoor_localization/Route_180723_S3.png"}})|![S3RSS]({{"/assets/images/indoor_localization/S3_jumps.png"}})|| 
+|![S1path]({{"/assets/images/2018_indoor_localization/Route_180723_S1.png"}})|![S1RSS]({{"/assets/images/2018_indoor_localization/S1_jumps.png"}})|
+|![S2path]({{"/assets/images/2018_indoor_localization/Route_180713_S2.png"}})|![S2RSS]({{"/assets/images/2018_indoor_localization/raw_RSSI_S2.png"}})|
+|![S3path]({{"/assets/images/2018_indoor_localization/Route_180723_S3.png"}})|![S3RSS]({{"/assets/images/2018_indoor_localization/S3_jumps.png"}})|| 
 
 The first two figures substantiate the claim that RSS is indeed a rather
 volatile beast. We were alarmed to see that readings could drop
@@ -196,7 +196,7 @@ below. For this example, wavelet coefficients at scale \\(k=4\\) were filtered.
 Since this experiment was sampled at a rate of \\(2\\)Hz, \\(k=4\\) corresponds to a
 time scale of 8 seconds.
 
-![S1filtered]({{"/assets/images/indoor_localization/S1_1_filtered.png"}})
+![S1filtered]({{"/assets/images/2018_indoor_localization/S1_1_filtered.png"}})
 
 Next we needed a procedure for selecting significant wavelet coefficients from 
 the filtered RSS curve which we would label as jumps. We used the difference between
@@ -211,8 +211,8 @@ plot RSS measurements from a particular experiment along with the
 wavelet coefficients of the filtered and unfiltered RSS curves as well as the 
 threshold plotted in red.
 
-![S3RSSfilt]({{"/assets/images/indoor_localization/S3_close_open_RSS.png"}})
-![S3coeffs]({{"/assets/images/indoor_localization/S3_close_open_wave_coeffs.png"}})
+![S3RSSfilt]({{"/assets/images/2018_indoor_localization/S3_close_open_RSS.png"}})
+![S3coeffs]({{"/assets/images/2018_indoor_localization/S3_close_open_wave_coeffs.png"}})
 
 ## Comparing Dynamic Model to Static Model
 We could have spent more time on perfecting jump detection, but with what little time
@@ -264,9 +264,9 @@ true distances.
 
 | Route | Distance Estimation |
 |:-------:|:-------:|
-|![S1dist]({{"/assets/images/indoor_localization/Route_180723_S1.png"}})|![S1RSS]({{"/assets/images/indoor_localization/S1_distance_est_ok.png"}})|
-|![S2path]({{"/assets/images/indoor_localization/Route_180713_S2.png"}})|![S2RSS]({{"/assets/images/indoor_localization/S2_distance_est_good.png"}})|
-|![S3path]({{"/assets/images/indoor_localization/Route_180723_S3.png"}})|![S3RSS]({{"/assets/images/indoor_localization/S3_distance_est_bad.png"}})|| 
+|![S1dist]({{"/assets/images/2018_indoor_localization/Route_180723_S1.png"}})|![S1RSS]({{"/assets/images/2018_indoor_localization/S1_distance_est_ok.png"}})|
+|![S2path]({{"/assets/images/2018_indoor_localization/Route_180713_S2.png"}})|![S2RSS]({{"/assets/images/2018_indoor_localization/S2_distance_est_good.png"}})|
+|![S3path]({{"/assets/images/2018_indoor_localization/Route_180723_S3.png"}})|![S3RSS]({{"/assets/images/2018_indoor_localization/S3_distance_est_bad.png"}})|| 
 
 For the experiment in the first figure, 
 the Raspberry Pi was held above one of our colleague's heads to maintain line of sight with
