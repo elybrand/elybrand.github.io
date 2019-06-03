@@ -2,6 +2,7 @@
 layout: single
 title: Do Neural Networks Learn Shearlets?
 author_profile: true
+tags: math
 ---
 
 In the spring quarter of 2017, the signal processing group at UCSD decided to

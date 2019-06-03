@@ -2,6 +2,7 @@
 layout: single 
 title: An Overview of Blind Deconvolution
 author_profile: true
+tags: math
 ---
 
 ## Motivation

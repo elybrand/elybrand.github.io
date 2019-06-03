@@ -2,6 +2,7 @@
 layout: single
 title: Analog to Digital Conversion & \\(\Sigma\Delta\\) Quantization
 author_profile: true
+tags: math
 ---
 
 *Update: an earlier version of this post incorrectly characterized the contribution from Daubechies and DeVore.
