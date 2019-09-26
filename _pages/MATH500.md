@@ -30,7 +30,7 @@ Fall 2019: &nbsp;&nbsp;Thursdays, 1pm-1:50pm in APM B402A
 
 | Date                   | Theme                            | Background                | Homework           |
 | -----------------------| -------------------------------- | ------------------------- | ------------------ |
-| September 26           | Getting Started, pt. 1			| 							| 					 |
+| September 26           | [Getting Started, pt. 1]({{ "/assets/files/UCSD/2019 MATH 500/TA_Training_1.pdf" | absolute_url }})			| 							| 					 |
 | October 3              | Getting Started, pt. 2			| 					        |					 |
 | October 10             | Academic Integrity		    	| 							| 					 |
 | October 17             | Midterms							| 							| 					 |
