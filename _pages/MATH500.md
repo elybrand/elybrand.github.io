@@ -30,7 +30,7 @@ Fall 2019: &nbsp;&nbsp;Thursdays, 1pm-1:50pm in APM B402A
 
 | Date                   | Theme                            | Background                | Homework           |
 | -----------------------| -------------------------------- | ------------------------- | ------------------ |
-| September 26           | [Getting Started, pt. 1]({{ "/assets/files/UCSD/2019 MATH 500/TA_Training_1.pdf" | absolute_url }})			| 							| 					 |
+| September 26           | [Getting Started, pt. 1]({{ "/assets/files/UCSD/2019 MATH 500/TA_Training_1.pdf" | absolute_url }})	| 	-[List of Responsibilities](http://www.math.ucsd.edu/~seniorta/Policies/TADuties.pdf)<br>-[Week 0 and Week 1 Handout]({{ "/assets/files/UCSD/2019 MATH 500/week0_handout.pdf" | absolute_url }})<br>-[Essential TA Info Handout]({{ "/assets/files/UCSD/2019 MATH 500/essential_info_handout.pdf" | absolute_url }})<br>-[Before the Quarter Starts](http://www.math.ucsd.edu/~seniorta/Gettingstarted/preparation.html)<br> -[Your First Section](http://www.math.ucsd.edu/~seniorta/Gettingstarted/firstsection.html)						| 					 |
 | October 3              | Getting Started, pt. 2			| 					        |					 |
 | October 10             | Academic Integrity		    	| 							| 					 |
 | October 17             | Midterms							| 							| 					 |
