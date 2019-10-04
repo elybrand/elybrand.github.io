@@ -21,7 +21,7 @@ Fall 2019: &nbsp;&nbsp;Thursdays, 1pm-1:50pm in APM B402A
 |------------------------|----------------------------------|---------------------------|--------------------|
 | Jeff Rabin 			 | Instructor 						| jrabin@ucsd.edu   		| APM 6220 			 |
 | Eric Lybrand 			 | Senior TA 						| elybrand@ucsd.edu   		| APM 2210 			 |
-| Jaqueline Warren 		 | Senior TA 						| j4warren@ucsd.edu   		| APM 2202 			 |
+| Jacqueline Warren 	 | Senior TA 						| j4warren@ucsd.edu   		| APM 2202 			 |
 | Daniel Kroes 			 | Junior TA 						| dkroes@ucsd.edu   		| APM 2220 			 |
 | Samir Canning 		 | Junior TA 						| srcannin@ucsd.edu   		| APM 5760 			 |
 
@@ -31,7 +31,7 @@ Fall 2019: &nbsp;&nbsp;Thursdays, 1pm-1:50pm in APM B402A
 | Date                   | Theme                            | Background                | Homework           |
 | -----------------------| -------------------------------- | ------------------------- | ------------------ |
 | September 26           | [Getting Started, pt. 1]({{ "/assets/files/UCSD/2019 MATH 500/TA_Training_1.pdf" | absolute_url }})	| 	-[List of Responsibilities](http://www.math.ucsd.edu/~seniorta/Policies/TADuties.pdf)<br>-[Week 0 and Week 1 Handout]({{ "/assets/files/UCSD/2019 MATH 500/week0_handout.pdf" | absolute_url }})<br>-[Essential TA Info Handout]({{ "/assets/files/UCSD/2019 MATH 500/essential_info_handout.pdf" | absolute_url }})<br>-[Before the Quarter Starts](http://www.math.ucsd.edu/~seniorta/Gettingstarted/preparation.html)<br> -[Your First Section](http://www.math.ucsd.edu/~seniorta/Gettingstarted/firstsection.html)						| 					 |
-| October 3              | Getting Started, pt. 2			|  -[Writing a Teaching Statement](https://www.ams.org/notices/201501/rnoti-p59.pdf) <br> -[Example Teaching Statement]({{ "/assets/files/UCSD/2019 MATH 500/LS_teaching_statement.pdf" | absolute_url }}) | Enroll in Gradescope. Write a teaching statement. Due October 11th on Gradescope.	|
+| October 3              | [Getting Started, pt. 2]({{ "/assets/files/UCSD/2019 MATH 500/TA_Training_2.pdf" | absolute_url }})		|  -[Writing a Teaching Statement](https://www.ams.org/notices/201501/rnoti-p59.pdf) <br> -[Example Teaching Statement]({{ "/assets/files/UCSD/2019 MATH 500/LS_teaching_statement.pdf" | absolute_url }}) | Enroll in Gradescope. Write a teaching statement. Due October 11th on Gradescope.	|
 | October 10             | Academic Integrity		    	| 							| 					 |
 | October 17             | Midterms							| 							| 					 |
 | October 24             | Language and Mathematics      	| 							| 					 |
