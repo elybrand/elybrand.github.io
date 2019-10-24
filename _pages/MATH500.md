@@ -22,7 +22,7 @@ Fall 2019: &nbsp;&nbsp;Thursdays, 1pm-1:50pm in APM B402A
 | Jeff Rabin 			 | Instructor 						| jrabin@ucsd.edu   		| APM 6220 			 |
 | Eric Lybrand 			 | Senior TA 						| elybrand@ucsd.edu   		| APM 2210 			 |
 | Jacqueline Warren 	 | Senior TA 						| j4warren@ucsd.edu   		| APM 2202 			 |
-| Daniel Kroes 			 | Junior TA 						| dkroes@ucsd.edu   		| APM 2220 			 |
+| Dani&euml;l Kroes 			 | Junior TA 						| dkroes@ucsd.edu   		| APM 2220 			 |
 | Samir Canning 		 | Junior TA 						| srcannin@ucsd.edu   		| APM 5760 			 |
 
 
@@ -34,7 +34,7 @@ Fall 2019: &nbsp;&nbsp;Thursdays, 1pm-1:50pm in APM B402A
 | October 3              | [Getting Started, pt. 2]({{ "/assets/files/UCSD/2019 MATH 500/TA_Training_2.pdf" | absolute_url }})		|  -[Writing a Teaching Statement](https://www.ams.org/notices/201501/rnoti-p59.pdf) <br> -[Example Teaching Statement]({{ "/assets/files/UCSD/2019 MATH 500/LS_teaching_statement.pdf" | absolute_url }}) | Enroll in Gradescope. Write a teaching statement. Due October 11th on Gradescope.	|
 | October 10             | Academic Integrity		    	| 							| 					 |
 | October 17             | [Midterms]({{ "/assets/files/UCSD/2019 MATH 500/TA_Training_3.pdf" | absolute_url }})							| 	-[Gradescope Help](http://www.math.ucsd.edu/~gptesler/Gradescope_Tesler_June2019.pdf)<br> -[Academic Integrity Handout]({{ "/assets/files/UCSD/2019 MATH 500/Academic_integrity_handout.pdf" | absolute_url }})						| 	Read the comments we give you from observing you on Gradescope as they are made available.				 |
-| October 24             | Language and Mathematics      	| 							| 					 |
+| October 24             | [Grading, Academic Integrity cont.]({{ "/assets/files/UCSD/2019 MATH 500/TA_Training_4.pdf" | absolute_url }})      	| -[Experienced TAs](https://docs.google.com/spreadsheets/d/1YUIit9LNE2hLEPdcW6Uy2XxFUnx6cLaIMYcNaxTV0Dk/edit?usp=sharing)<br>	-[Observaiton Form (pdf)]({{ "/assets/files/UCSD/2019 MATH 500/Peer_Observation_Template.pdf" | absolute_url }})<br> -[Observation Form (LaTeX)]({{ "/assets/files/UCSD/2019 MATH 500/peer_observation_template.tex" | absolute_url }})		| Observe an experienced TA and fill out observation form. Submit to Gradescope no later than Nov. 8th.					 |
 | October 31             | Guest Lecture + Problem Solving	| 							|					 |
 | November 7             | Student Panel					| 							|					 |
 | November 14            | Ideas from Math Ed Research		| 							|  					 |
