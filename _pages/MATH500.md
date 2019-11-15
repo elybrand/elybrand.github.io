@@ -37,7 +37,7 @@ Fall 2019: &nbsp;&nbsp;Thursdays, 1pm-1:50pm in APM B402A
 | October 24             | [Grading, Academic Integrity cont.]({{ "/assets/files/UCSD/2019 MATH 500/TA_Training_4.pdf" | absolute_url }})      	| -[Experienced TAs](https://docs.google.com/spreadsheets/d/1YUIit9LNE2hLEPdcW6Uy2XxFUnx6cLaIMYcNaxTV0Dk/edit?usp=sharing)<br>	-[Observaiton Form (pdf)]({{ "/assets/files/UCSD/2019 MATH 500/Peer_Observation_Template.pdf" | absolute_url }})<br> -[Observation Form (LaTeX)]({{ "/assets/files/UCSD/2019 MATH 500/peer_observation_template.tex" | absolute_url }})		| Observe an experienced TA and fill out observation form. Submit to Gradescope no later than Nov. 8th.					 |
 | October 31             | [Guest Lecture + Language]({{ "/assets/files/UCSD/2019 MATH 500/MathLanguage.pdf" | absolute_url }})	| 							| Ask your discussion section to fill out a midterm evaluation [Google form](https://docs.google.com/forms/d/1E-dcGYA3fgmke1bnFhdgHntzT0OyZCtvnyLQPLXlOJs/copy?urp=gmail_link). Submit summary results as PDF on Gradescope by November 15th.					 |
 | November 7             | Student Panel					| 							|					 |
-| November 14            | Ideas from Math Ed Research		| 							|  					 |
+| November 14            | [Ideas from Math Ed Research]({{ "/assets/files/UCSD/2019 MATH 500/Math500Talk.pdf" | absolute_url }})		| 							|  					 |
 | November 21            | Debrief from Observations		| 	    					|					 |
 | November 28            | NO CLASS! Happy Thanksgiving!	| 						    |					 |
 | December 5             | Final Exams						| 							|					 |
