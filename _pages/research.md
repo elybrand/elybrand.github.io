@@ -5,17 +5,24 @@ author_profile: true
 permalink: /research/
 ---
 
-## Preprints & Manuscripts in Preparation
+## Preprints
+
+- E. Lybrand and [R. Saab](http://www.math.ucsd.edu/~rsaab/). “A Greedy Algorithm for Quantizing Neural Networks.” preprint, 2020. [arXiv](https://arxiv.org/pdf/2010.15979.pdf) [GitHub](https://github.com/elybrand/quantized_neural_networks)
+
+- E. Lybrand, [A. Ma](https://sites.google.com/view/annama/home), and [R. Saab](http://www.math.ucsd.edu/~rsaab/). “On the Number of Faces and Radii of Cells Induced by Gaussian Spherical
+Tessellations.” preprint, 2020.
 
 - H. Huang and [T. Kemp](http://www.math.ucsd.edu/~tkemp/) and Y. Ling and X. Luo and E. Lybrand and R. Smith and J. Wang. "Random Matrices with Independent Diagonals." preprint, 2018.
 
-## Journal Papers
 
-- E. Lybrand and [R. Saab](http://www.math.ucsd.edu/~rsaab/). “Quantization for Low-Rank Matrix Recovery." Information and Inference, 2018.  [arXiv](https://arxiv.org/abs/1709.09803) [Journal](https://academic.oup.com/imaiai/advance-article/doi/10.1093/imaiai/iay007/5004444)
 
-## Conference Proceedings
+
+## Publications
 
 - [M. Iwen](https://users.math.msu.edu/users/markiwen/), E. Lybrand, A. Nelson, [R. Saab](http://www.math.ucsd.edu/~rsaab/). "New Algorithms and Improved Guarantees for One-Bit Compressed Sensing on Manifolds." SampTA2019. [arXiv](https://arxiv.org/abs/1902.03726) [Proceedings](https://sampta2019.sciencesconf.org/267369/document)
+
+
+- E. Lybrand and [R. Saab](http://www.math.ucsd.edu/~rsaab/). “Quantization for Low-Rank Matrix Recovery." Information and Inference, 2018.  [arXiv](https://arxiv.org/abs/1709.09803) [Journal](https://academic.oup.com/imaiai/advance-article/doi/10.1093/imaiai/iay007/5004444)
 
 ## Selected Talks & Conference Presentations
 
