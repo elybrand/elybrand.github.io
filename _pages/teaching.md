@@ -7,6 +7,9 @@ permalink: /teaching/
 
 Here’s a list of courses I currently serve or have served as a teaching assistant for. You can see my past teaching evaluations by clicking on the course titles if you’re interested.
 
+### 2020
+[MATH 173A] - Optimization for Data Science (Fall)
+
 ### 2019
 [MATH 500]({{ "/MATH500/" | absolute_url }})  - Teaching Assistant Training (Fall)  
 
