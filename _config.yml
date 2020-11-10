@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Eric Lybrand"
-  avatar           : "/assets/images/avatar.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/smile_compressed.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Mathematics Ph.D. Candidate at UCSD"
   location         : "San Diego, California"
   email            :
