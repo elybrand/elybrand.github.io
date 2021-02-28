@@ -26,6 +26,9 @@ Tessellations.” preprint, 2020.
 
 ## Selected Talks & Conference Presentations
 
+- [Ph.D. Defense: Quantization of Neural Networks](https://www.youtube.com/watch?v=FCAi4L376cs&feature=youtu.be), February 2021. [Slides]({{ "/assets/files/presentations/defense_slides.pdf" | absolute_url }})
+
+
 - [One-Bit Compressed Sensing on Manifolds](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=016ad0b6-6615-4771-bf0c-aa55012f8eb0), TRIPODS Summer Conference. May 2019. [Slides]({{ "/assets/files/presentations/One_Bit_Man_TRIPODS_2019.pdf" | absolute_url }})
 
 - [Quantization and Low Rank Matrix Recovery](https://www.birs.ca/events/2018/5-day-workshops/18w5162/videos/watch/201810301105-Lybrand.html), BIRS (Banff) Workshop on Information Theory and Signal Processing. October 2018. [Slides]({{ "/assets/files/presentations/BIRS_2018_lowrank.pdf" | absolute_url }})
