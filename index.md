@@ -5,7 +5,7 @@ author_profile: true
 
 I am a sixth year mathematics Ph.D. candidate at the University
 of California, San Diego. [Rayan Saab](http://www.math.ucsd.edu/~rsaab/) is my adviser.
-I received my bachelor’s degree in mathematics at the University of Georgia in 2015, and my Ph.D. in Mathematics at UC San Diego in 2021.
+I received my bachelor’s degree in mathematics at the University of Georgia in 2015, and my Ph.D. in mathematics at UC San Diego in 2021.
 For anyone who is interested, here is a copy of my [resume]({{ "/assets/files/resume.pdf"|absolute_url}}).
 
 ### Research Interests
