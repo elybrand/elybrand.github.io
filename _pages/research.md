@@ -7,10 +7,10 @@ permalink: /research/
 
 ## Preprints
 
-- E. Lybrand and [R. Saab](http://www.math.ucsd.edu/~rsaab/). “A Greedy Algorithm for Quantizing Neural Networks.” preprint, 2020. [arXiv](https://arxiv.org/pdf/2010.15979.pdf) [GitHub](https://github.com/elybrand/quantized_neural_networks)
+- E. Lybrand and [R. Saab](http://www.math.ucsd.edu/~rsaab/). “A Greedy Algorithm for Quantizing Neural Networks.” Accepted, in revision 2020. [arXiv](https://arxiv.org/pdf/2010.15979.pdf) [GitHub](https://github.com/elybrand/quantized_neural_networks)
 
 - E. Lybrand, [A. Ma](https://sites.google.com/view/annama/home), and [R. Saab](http://www.math.ucsd.edu/~rsaab/). “On the Number of Faces and Radii of Cells Induced by Gaussian Spherical
-Tessellations.” preprint, 2020.
+Tessellations.” Accepted, in revision 2020.
 
 - H. Huang and [T. Kemp](http://www.math.ucsd.edu/~tkemp/) and Y. Ling and X. Luo and E. Lybrand and R. Smith and J. Wang. "Random Matrices with Independent Diagonals." preprint, 2018.
 
