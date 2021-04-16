@@ -7,8 +7,11 @@ permalink: /teaching/
 
 Here’s a list of courses I currently serve or have served as a teaching assistant for. You can see my past teaching evaluations by clicking on the course titles if you’re interested.
 
+### 2021
+DSC 120 - Signal Processing for Data Analysis. Too few evaluations for release.
+
 ### 2020
-[MATH 173A] - Optimization for Data Science (Fall)
+MATH 173A - Optimization for Data Science (Fall). Too few evaluations for release.
 
 ### 2019
 [MATH 500]({{ "/MATH500/" | absolute_url }})  - Teaching Assistant Training (Fall)  
